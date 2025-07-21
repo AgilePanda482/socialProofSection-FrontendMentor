@@ -21,7 +21,7 @@ This is a simple page to practice HTML and CSS. The challenge comes from the Fro
 
 ### Links
 
-- Solution from frontend Mentor URL: [Here]()
+- Solution from frontend Mentor URL: [Here](https://www.frontendmentor.io/solutions/social-proof-section-mobile-first-responsive-bI-qopvnnW)
 - Live Site URL: [Here](https://socialproofsection-agilepanda482.netlify.app/)
 
 ## My process
